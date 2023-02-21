@@ -1,0 +1,13 @@
+name: WebApp
+title: WebApp
+username:
+account: food-delivery-analyser
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8374666
+bundleId: 6871176
+url: https://food-delivery-analyser.shinyapps.io/WebApp/
+when: 1677005134.28871
+lastSyncTime: 1677005134.28872
+asMultiple: FALSE
+asStatic: FALSE
