@@ -145,7 +145,7 @@ create_combined_table <- function(data_input, num_var_1, num_var_2, fact_var){
 
 ui <- navbarPage(
   title = "Food Delivery Analyser",
-  theme = shinytheme('cyborg'),
+  theme = shinytheme('darkly'),
   main_page,
   about_page
 )
