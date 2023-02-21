@@ -1,5 +1,5 @@
 name: WebApp
-title: WebApp
+title: 
 username:
 account: food-delivery-analyser
 server: shinyapps.io
@@ -9,5 +9,4 @@ bundleId: 6871384
 url: https://food-delivery-analyser.shinyapps.io/WebApp/
 when: 1677009604.83252
 lastSyncTime: 1677009604.83253
-asMultiple: FALSE
-asStatic: FALSE
+
