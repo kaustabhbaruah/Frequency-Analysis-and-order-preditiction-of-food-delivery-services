@@ -2,4 +2,7 @@
 
 
 
-https://food-delivery-analyser.shinyapps.io/WebApp/
+You can vist the analyser on - https://food-delivery-analyser.shinyapps.io/WebApp/
+
+
+
